@@ -1,0 +1,43 @@
+{
+  "SwaggerEndPoints": [
+    {
+      "Key": "auth",
+      "Config": [
+        {
+          "Name": "Auth Web API",
+          "Version": "v1",
+          "Service": {
+            "Name": "auth",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "product",
+      "Config": [
+        {
+          "Name": "Product Web API",
+          "Version": "v1",
+          "Service": {
+            "Name": "product",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "basket",
+      "Config": [
+        {
+          "Name": "Basket Web API",
+          "Version": "v1",
+          "Service": {
+            "Name": "basket",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    }
+  ]
+}
