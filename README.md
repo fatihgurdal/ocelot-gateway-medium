@@ -1,6 +1,6 @@
 # Ocelot Gateway Medium Örnek Projesi
 
-Bu depo, [Medium makalemde](https://medium.com/@fatihgurdal/ocelot-gateway-nedir-asp-net-core-kurulum-ve-%C3%B6rnek-proje-3de52879c421) anlattığım Ocelot Gateway teknolojisini kullanarak geliştirdiğim örnek bir ASP.NET Core projesini içerir.
+Bu depo, [Medium makalemde](https://medium.com/hangikredi/ocelot-gateway-nedir-asp-net-core-kurulum-ve-%C3%B6rnek-proje-3de52879c421) anlattığım Ocelot Gateway teknolojisini kullanarak geliştirdiğim örnek bir ASP.NET Core projesini içerir.
 
 ## Proje Açıklaması
 
@@ -8,7 +8,7 @@ Bu örnek proje, Ocelot Gateway'in nasıl kullanılacağını anlamak ve ASP.NET
 
 ## Nasıl Başlatılır ve Test Edilir?
 
-Projeyle ilgili ayrıntılı talimatlar için [Medium makalesini](https://medium.com/@fatihgurdal/ocelot-gateway-nedir-asp-net-core-kurulum-ve-%C3%B6rnek-proje-3de52879c421) ziyaret edebilirsiniz.
+Projeyle ilgili ayrıntılı talimatlar için [Medium makalesini](https://medium.com/hangikredi/ocelot-gateway-nedir-asp-net-core-kurulum-ve-%C3%B6rnek-proje-3de52879c421) ziyaret edebilirsiniz.
 
 ## Kullanılan Teknolojiler
 
