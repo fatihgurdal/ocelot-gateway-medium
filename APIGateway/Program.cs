@@ -30,6 +30,7 @@ app.UseSwaggerForOcelotUI(opt =>
     opt.PathToSwaggerGenerator = "/swagger/docs";
 
 });
+app.UseWebSockets();
 app.UseOcelot().Wait(); 
 #endregion
 

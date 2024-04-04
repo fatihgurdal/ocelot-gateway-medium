@@ -6,6 +6,22 @@
       "UpstreamPathTemplate": "/basket-gate/{everything}",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete","Options" ],
       "SwaggerKey": "basket"
+    },
+    {
+      "DownstreamPathTemplate": "/{everything}",
+      "UpstreamPathTemplate": "/basket-gate-hub/{everything}",
+      "UpstreamHttpMethod": [
+        "Get",
+        "Post",
+        "Put",
+        "Delete",
+        "Patch",
+        "Options"
+      ],
+      "ServiceName": "basket",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      }
     }
   ]
 }
